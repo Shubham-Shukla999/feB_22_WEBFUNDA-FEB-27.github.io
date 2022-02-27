@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: blueviolet;
+}
+form{
+    background-color: azure;
+    width: 80vw;
+    height: 80vh;
+    margin-left: 10vw;
+    margin-top: 10vh;
+    text-align: center;
+}
+
+h2{
+    padding: 20px;
+}
+input{
+    margin: 20px;
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px slateblue solid;
+
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 2px slateblue solid;
+    background-color: rgb(9, 230, 9);
+
+}
